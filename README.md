@@ -1,3 +1,7 @@
-# MyNeeds2
+# Vue-Sidenav
 
-These are not mine. I do not take credit for whatever is inside of this repository. That's all, thank you!
+Reference link: https://github.com/TylerPottsDev/yt-vue-sidebar
+
+Instruction:
+- npm install
+- npm run dev ('serve' does not work here')
